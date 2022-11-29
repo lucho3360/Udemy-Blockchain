@@ -1,0 +1,14 @@
+# installar ganache
+
+npm install -g ganache
+
+# estar ganache
+
+ganache
+
+
+# run Truffle on Ganache Network
+
+truffle migrate --network ganache
+
+
