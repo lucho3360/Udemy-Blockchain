@@ -12,3 +12,6 @@ ganache
 truffle migrate --network ganache
 
 
+# install for tests
+
+npm install truffle-assertions

@@ -1,0 +1,7 @@
+# Run ether network
+
+npx hardhat node
+
+# Running project
+
+npx hardhat run --network localhost scripts/deploy.js
