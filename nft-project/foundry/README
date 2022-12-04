@@ -1,0 +1,6 @@
+# INSTALL FOUNDRY
+# LUEGO for create structure
+
+forge init .
+
+forge build
