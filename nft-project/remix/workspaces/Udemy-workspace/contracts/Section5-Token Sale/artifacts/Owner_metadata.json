@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Section5-Token Sale/Ownable.sol": "Owner"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Section5-Token Sale/Ownable.sol": {
+			"keccak256": "0xdfe87f5f53d9f0bbe134a26eb6be16ebb1086dd555eea95ff82163ba996cde56",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://ad1925ec31019e0ec72c8ffa8abe2503a575a46b70708b7cc154c9ff17eb3f7f",
+				"dweb:/ipfs/QmSibwrVBCAj1wmTiinSnMt6xrVTZoVm15cwQyFW98CyRq"
+			]
+		}
+	},
+	"version": 1
+}

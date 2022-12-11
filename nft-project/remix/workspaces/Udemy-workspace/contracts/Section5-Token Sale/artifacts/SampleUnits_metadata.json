@@ -1,0 +1,57 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "startInDays",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Section5-Token Sale/Ownable.sol": "SampleUnits"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Section5-Token Sale/Ownable.sol": {
+			"keccak256": "0x9c31355438b3f7e08fcb9fd69abadd093800118259b9adbb3356c77aabb90310",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://2890efa14778a940fdee4a6d1dee9afeab42641210b70a36ad4848b3eb3493d1",
+				"dweb:/ipfs/QmT8jBeLxaUXepGWDAhbqQjngoWUFYY87CH8EjyGZDQ3pj"
+			]
+		}
+	},
+	"version": 1
+}
